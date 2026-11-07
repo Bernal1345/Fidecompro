@@ -21,7 +21,7 @@ import util.BaseDatos;
 public class Main {
 
     // Variable global para controlar el menú
-    public static final String CANCELAR = "MENU FIDECOMPRO";
+    public static final String CANCELAR = "MENU PRINCIPAL FIDECOMPRO";
 
     // Solicita texto
     public static String pedirTexto(String mensaje) {
