@@ -1,0 +1,13 @@
+FACTURA FIDECOMPRO
+
+CLIENTE
+Bernal AS
+205850969
+
+PRODUCTOS
+Arroz 99% x 2 = ₡2400.0
+
+Subtotal: ₡2400.0
+IVA: ₡312.0
+TOTAL: ₡2712.0
+Gracias por su compra
